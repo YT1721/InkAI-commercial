@@ -1,1 +1,0 @@
-"use strict";exports.id=175,exports.ids=[175],exports.modules={54175:e=>{e.exports=JSON.parse('{"Index":{"title":"InkAI - AI Video Studio","description":"Turning ideas into reality with AI-powered video generation."}}')}};

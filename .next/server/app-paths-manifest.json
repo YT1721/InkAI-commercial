@@ -1,7 +1,0 @@
-{
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/proxy-file/route": "app/api/proxy-file/route.js",
-  "/[locale]/studio/[workflowId]/page": "app/[locale]/studio/[workflowId]/page.js",
-  "/[locale]/dashboard/page": "app/[locale]/dashboard/page.js",
-  "/[locale]/page": "app/[locale]/page.js"
-}
