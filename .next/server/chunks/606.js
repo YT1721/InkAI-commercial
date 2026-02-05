@@ -1,0 +1,1 @@
+"use strict";exports.id=606,exports.ids=[606],exports.modules={55606:e=>{e.exports=JSON.parse('{"Index":{"title":"InkAI - AI 视频工坊","description":"用 AI 赋能视频创作，将创意转化为现实。"}}')}};
